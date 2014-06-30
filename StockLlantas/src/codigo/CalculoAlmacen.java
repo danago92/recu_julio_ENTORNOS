@@ -1,6 +1,5 @@
 package codigo;
 
-//Añado un comentario como un nuevo cambio del código
 public class CalculoAlmacen {
 	Llanta[] llantasAlmacen1=new Llanta[10];
 	Llanta[] llantasAlmacen2=new Llanta[5];
